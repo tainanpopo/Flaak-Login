@@ -39,8 +39,6 @@ python Entity.py db upgrade
 
 [Flask-Migrate](https://flask-migrate.readthedocs.io/en/latest/)
 
-[Pretty Printed](https://github.com/PrettyPrinted/AJAX_Forms_jQuery_Flask)
-
-[W3school](http://www.w3school.com.cn/jquery/jquery_ref_events.asp)
-
 [twtrubiks](https://github.com/twtrubiks/Deploying-Flask-To-Heroku)
+
+[Pretty Printed](https://github.com/PrettyPrinted/building_user_login_system)
